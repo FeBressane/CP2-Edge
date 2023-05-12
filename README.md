@@ -13,3 +13,6 @@
 ![Imagem do projeto](https://github.com/FeBressane/CP2-Edge/assets/63418718/5649a888-4cfa-4cb2-add7-d09b9e6408a5)
 #### Link para entendimento do projeto: https://youtu.be/Fu2D3CmZdMg
 #### Link do Tinkercad do projeto: https://www.tinkercad.com/things/6Kw3t1Miu6T
+##### Projeto produzido por: 
++ Augusto Fisco Milreu -- rm98245
++ Felipe Cavalcante Bressane -- rm97688
